@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.1.0.16-->
+<svg stroke-width="0.501" stroke-linejoin="bevel" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="720pt" height="720pt" viewBox="0 0 720 720">
+ <defs>
+	</defs>
+ <g id="Document" fill="none" stroke="black" font-family="Times New Roman" font-size="16" transform="scale(1 -1)">
+  <g id="Spread" transform="translate(0 -720)">
+   <g id="Layer 1">
+    <path d="M 25.375,306.467 C 18.777,312.696 9.557,314.436 1.494,311.795 L 1.494,436.675 C 10.019,433.881 19.774,436.022 26.339,442.972 C 31.345,448.273 33.452,455.269 32.716,461.995 L 691.478,461.995 C 690.195,454.391 692.606,446.306 698.63,440.618 C 704.155,435.398 711.52,433.33 718.504,434.348 L 718.504,312.737 C 711.058,313.82 703.218,311.382 697.664,305.502 C 691.719,299.208 689.862,290.528 691.996,282.744 L 32.007,282.744 C 34.27,290.991 32.021,300.188 25.375,306.467 Z M 689.439,312.189 C 694.437,317.481 701.494,319.676 708.195,318.7 L 708.195,428.15 C 701.909,427.233 695.281,429.095 690.308,433.792 C 684.887,438.912 682.717,446.188 683.871,453.032 L 39.903,453.032 C 40.565,446.978 38.668,440.682 34.163,435.911 C 28.255,429.656 19.475,427.729 11.803,430.244 L 11.803,317.853 C 19.059,320.23 27.357,318.664 33.296,313.057 C 39.278,307.407 41.301,299.129 39.265,291.706 L 684.338,291.706 C 682.417,298.713 684.089,306.524 689.439,312.189 Z" stroke="#000000" fill="#ffffff" stroke-linejoin="miter" stroke-width="2.988" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+   </g>
+  </g>
+ </g>
+</svg>
